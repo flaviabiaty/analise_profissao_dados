@@ -16,7 +16,7 @@ Este projeto realiza uma análise de dados sobre contratações na área de dado
 - **Streamlit** → criação e hospedagem de dashboards web  
 ---
 ##  Conteúdo do Repositório
-- `ImersaoAlura.ipynb`: notebook que documenta todo o passo a passo desde a análise exploratória até a visualização.  
+- `ProfissaoDados.ipynb`: notebook que documenta todo o passo a passo desde a análise exploratória até a visualização.  
 - `dados_final.csv`: base de dados principais com as informações sobre vagas/contratações.  
 - `app.py`: aplicação Streamlit para visualização dos resultados em dashboard interativo.  
 - `requirements.txt`: lista das dependências necessárias para executar o projeto localmente (ex.: pandas, streamlit, plotly).
@@ -26,3 +26,4 @@ Este projeto realiza uma análise de dados sobre contratações na área de dado
 Um dashboard interativo está disponível em [https://fpbimersaodadospython2025.streamlit.app/](https://fpbimersaodadospython2025.streamlit.app/), permitindo visualizar os insights de forma dinâmica.
 
 ---
+* Projeto desenvolvido durante a Imersão Dados com Python - Alura que aconteceu de 05 a 08 de agosto de 2025 *.
