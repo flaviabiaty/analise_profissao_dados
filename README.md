@@ -8,3 +8,5 @@ Este repositório apresenta o passo a passo da análise, tratamento e divulgaç�
  - Segunda Etapa: limpeza dos dados
  - Terceira Etapa: criação de gráficos para stakeholders
  - Quarta Etapa: publicação de dashboard em Streamlit
+
+https://fpbimersaodadospython2025.streamlit.app/
